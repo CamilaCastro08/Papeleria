@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Papeleria\Productos\bin\Debug\net10.0\Productos_MC_Lib.deps.json
+C:\Users\user\Desktop\Papeleria\Productos\bin\Debug\net10.0\Productos_MC_Lib.dll
+C:\Users\user\Desktop\Papeleria\Productos\bin\Debug\net10.0\Productos_MC_Lib.pdb
+C:\Users\user\Desktop\Papeleria\Productos\obj\Debug\net10.0\Productos_MC_Lib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Papeleria\Productos\obj\Debug\net10.0\Productos_MC_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Papeleria\Productos\obj\Debug\net10.0\Productos_MC_Lib.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Papeleria\Productos\obj\Debug\net10.0\Productos_MC_Lib.AssemblyInfo.cs
+C:\Users\user\Desktop\Papeleria\Productos\obj\Debug\net10.0\Productos_MC_Lib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Papeleria\Productos\obj\Debug\net10.0\Productos_MC_Lib.dll
+C:\Users\user\Desktop\Papeleria\Productos\obj\Debug\net10.0\refint\Productos_MC_Lib.dll
+C:\Users\user\Desktop\Papeleria\Productos\obj\Debug\net10.0\Productos_MC_Lib.pdb
+C:\Users\user\Desktop\Papeleria\Productos\obj\Debug\net10.0\ref\Productos_MC_Lib.dll
+C:\Users\user\Desktop\Papeleria\Productos\obj\Debug\net10.0\Producto.9B8D8234.Up2Date

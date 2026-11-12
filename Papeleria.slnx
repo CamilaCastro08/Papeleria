@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/1. Presentaciones/">
+    <Project Path="ASP_Presentaciones_MC/ASP_Presentaciones_MC.csproj" />
+    <Project Path="Presentaciones_MC_Lib/Presentaciones_MC_Lib.csproj" />
+  </Folder>
+  <Folder Name="/2. Servicios/">
+    <Project Path="ASP_servicios_MC/ASP_servicios_MC.csproj" />
+    <Project Path="Productos/Productos_MC_Lib.csproj" />
+  </Folder>
+</Solution>

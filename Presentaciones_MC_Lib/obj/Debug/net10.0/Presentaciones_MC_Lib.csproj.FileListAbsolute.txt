@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\bin\Debug\net10.0\Presentaciones_MC_Lib.deps.json
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\bin\Debug\net10.0\Presentaciones_MC_Lib.dll
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\bin\Debug\net10.0\Presentaciones_MC_Lib.pdb
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\bin\Debug\net10.0\Productos_MC_Lib.dll
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\bin\Debug\net10.0\Productos_MC_Lib.pdb
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\obj\Debug\net10.0\Presentaciones_MC_Lib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\obj\Debug\net10.0\Presentaciones_MC_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\obj\Debug\net10.0\Presentaciones_MC_Lib.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\obj\Debug\net10.0\Presentaciones_MC_Lib.AssemblyInfo.cs
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\obj\Debug\net10.0\Presentaciones_MC_Lib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\obj\Debug\net10.0\Presenta.81234AF8.Up2Date
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\obj\Debug\net10.0\Presentaciones_MC_Lib.dll
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\obj\Debug\net10.0\refint\Presentaciones_MC_Lib.dll
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\obj\Debug\net10.0\Presentaciones_MC_Lib.pdb
+C:\Users\user\Desktop\Papeleria\Presentaciones_MC_Lib\obj\Debug\net10.0\ref\Presentaciones_MC_Lib.dll
